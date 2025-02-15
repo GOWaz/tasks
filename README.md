@@ -15,7 +15,7 @@ The relationships between entities:
 - A **Category** can contain multiple **Tasks** (One-to-Many).
 - A **Task** belongs to only one **Category**.
 
-![ERD](./Untitled Diagram.drawio.png)
+![ERD](./ERD.png)
 
 ## Technologies Used
 - **Spring Boot** (REST API)
